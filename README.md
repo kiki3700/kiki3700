@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello. I am Sunghyun. I'm interested in finanace and technology. As graduated business management school, I thought about making good finance is what it means. futher understanding structure, reporting, finance assets and fomula. Best way to make good finance system is removing firinction of legacy banking system with tech.
+Hello. I am Sunghyun. Welcome to my profile. 
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiki3700)](https://github.com/anuraghazra/github-readme-stats)
 <!--
